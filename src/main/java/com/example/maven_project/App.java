@@ -9,7 +9,7 @@ public class App {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("===== JAVA CALCULATOR =====");
-
+        System.out.println("Temporary change");
         System.out.print("Enter first number: ");
         double num1 = sc.nextDouble();
 
